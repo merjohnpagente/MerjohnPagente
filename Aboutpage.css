@@ -1,0 +1,131 @@
+@media(min-width: 500px) {
+  
+}
+body {
+    background-color: black; 
+
+  }
+
+.home {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    animation: fadeIn 2s ease-in-out, slideDown 1s ease-in-out;
+
+}
+
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+@keyframes slideDown {
+    from {
+        transform: translateY(-20px);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
+
+p {
+    color: white;
+    font-size: 35px;
+    margin: 0 20px;
+    animation: fadeInText 2s ease-in;
+}
+
+@keyframes fadeInText {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+img {
+    border-radius: 10px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(0, 255, 100, 0.5);
+}
+
+
+p:hover {
+    color: lightblue;
+    text-shadow: 0 0 10px black;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+button {
+    width: 200px;
+    padding: 15px 0;
+    text-align:center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid#b74b4b;
+    background: transparent;
+    color: white;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+span {
+    background: #b74b4b;
+    height: 100%;
+    width: 0%;
+    border-radius: 25px;
+    position: absolute;
+    left: 0;
+    bottom: 0;  
+    z-index: -1;
+    transition: 0.2s;
+}
+
+button:hover span {
+    width: 100%;
+}
+
+button:hover {
+    border: none;
+}
+
+a{
+    color: white;
+}
+.btn{
+    display: inline-block;
+    padding: 1rem 2.8rem;
+    background-color: black;
+    border-radius: 4rem;
+    font-size: 1.6rem;
+    color: #b74b4b;
+    letter-spacing: 0.3rem;
+    font-weight: 600;
+    border: 2px solid #b74b4b;
+    transition: 0.3s ease;
+    cursor: pointer;
+}
+.btn:hover{
+    transform: scale3d(1.03);
+    background-color: #b74b4b;
+    color: black;
+    box-shadow: 0 0 25px #b74b4b;
+}
