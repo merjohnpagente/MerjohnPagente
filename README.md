@@ -6,8 +6,8 @@
   <a href="https://github.com/merjohnpagente"><img src="./assets/contact/github.svg" alt="GitHub" height="44"/></a>
   <a href="https://www.linkedin.com/in/merjohn-pagente-216775448"><img src="./assets/contact/linkedin.svg" alt="LinkedIn" height="44"/></a>
   <a href="https://merjohnpagente.github.io/"><img src="./assets/contact/portfolio.svg" alt="Portfolio" height="44"/></a>
-  <a href="https://facebook.com/YOUR-FACEBOOK-HANDLE"><img src="./assets/contact/facebook.svg" alt="Facebook" height="44"/></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="./assets/contact/email.svg" alt="Email" height="44"/></a>
+  <a href="https://web.facebook.com/Mjhnnjhn"><img src="./assets/contact/facebook.svg" alt="Facebook" height="44"/></a>
+  <a href="mailto:merjohnpagente2004@gmail.com"><img src="./assets/contact/email.svg" alt="Email" height="44"/></a>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
