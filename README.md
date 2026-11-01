@@ -129,6 +129,7 @@ Six builds from my portfolio — each one shipped, linked and open to explore.
   <img src="./assets/icons/git.svg" alt="Git" width="72"/>
   <img src="./assets/icons/github.svg" alt="GitHub" width="72"/>
   <img src="./assets/icons/vscode.svg" alt="VS Code" width="72"/>
+  <img src="./assets/icons/acode.svg" alt="Acode" width="72"/>
   <img src="./assets/icons/figma.svg" alt="Figma" width="72"/>
 </p>
 
