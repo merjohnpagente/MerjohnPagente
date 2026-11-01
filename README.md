@@ -79,7 +79,11 @@ Six builds from my portfolio — each one shipped, linked and open to explore.
 </tr>
 </table>
 
-**Also in the portfolio:** [Gorilla Gym](https://merjohnpagente.github.io/gorillagymapp/) — a Flutter gym management app built around Strength · Focus · Discipline.
+<p align="center">
+  <a href="https://merjohnpagente.github.io/"><img src="https://img.shields.io/badge/View_all_projects-FFB02E?style=for-the-badge&logo=githubpages&logoColor=17325C" alt="View all projects" height="28"/></a>
+</p>
+
+**Also in the portfolio:** <a href="https://merjohnpagente.github.io/gorillagymapp/"><img src="https://img.shields.io/badge/Gorilla_Gym-View_project-17325C?style=for-the-badge&logo=flutter&logoColor=FFB02E" alt="Gorilla Gym" height="28"/></a> — a Flutter gym management app built around Strength · Focus · Discipline.
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
@@ -145,6 +149,8 @@ Six builds from my portfolio — each one shipped, linked and open to explore.
   <img src="https://github-readme-stats.vercel.app/api?username=merjohnpagente&show_icons=true&hide_border=false&bg_color=17325C&title_color=FFB02E&text_color=EAF1FB&icon_color=FFB02E&ring_color=FFB02E&border_color=35557F&border_radius=14" alt="GitHub stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merjohnpagente&layout=compact&langs_count=8&bg_color=17325C&title_color=FFB02E&text_color=EAF1FB&icon_color=FFB02E&ring_color=FFB02E&border_color=35557F&border_radius=14" alt="Top languages" width="49%"/>
 </p>
+
+## Contribution snake
 
 <p align="center">
   <picture>
