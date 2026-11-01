@@ -1,12 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84 100" width="84" height="100" role="img" aria-label="CSS">
 <title>CSS</title>
 <style>text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,system-ui,sans-serif}
-@keyframes rise{from{opacity:0;transform:translateY(6px)}}
-.pop{animation:rise .5s ease-out both}
-@media (prefers-reduced-motion:reduce){.pop{animation:none}}</style>
+@keyframes rise{from{opacity:0;transform:translateY(8px)}}
+@keyframes fade{from{opacity:0}}
+@keyframes pulse{50%{transform:scale(1.35);opacity:.6}}
+@keyframes growY{from{transform:scaleY(0)}}
+@keyframes drawL{from{stroke-dashoffset:1}}
+@keyframes trav{0%{transform:translateX(0);opacity:0}8%,92%{opacity:1}100%{transform:translateX(640px);opacity:0}}
+.pop,.rise{animation:rise .6s ease-out var(--d,0s) both}
+.f{animation:fade .8s ease-out var(--d,0s) both}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 3.2s ease-in-out infinite}
+.spine{transform-box:fill-box;transform-origin:top;animation:growY .9s ease-out both}
+.trav{animation:trav 5s ease-in-out 2.2s infinite}
+.ul{stroke-dasharray:1;animation:drawL .8s ease-out var(--d,0s) both}
+@media (prefers-reduced-motion:reduce){.pop,.rise,.f,.pulse,.spine,.trav,.ul{animation:none}.trav{opacity:0}}
+</style>
 <rect x=".75" y=".75" width="82.5" height="98.5" rx="14" fill="#17325C" stroke="#35557F" stroke-width="1.5"/>
-<g class="pop"><g transform="translate(42 46) scale(0.5) translate(-64 -64)">
-<path fill="#1572B6" d="M18.814 114.123L8.76 1.352h110.48l-10.064 112.754-45.243 12.543-45.119-12.526z"/><path fill="#33A9DC" d="M64.001 117.062l36.559-10.136 8.601-96.354h-45.16v106.49z"/><path fill="#fff" d="M64.001 51.429h18.302l1.264-14.163H64.001V23.435h34.682l-.332 3.711-3.4 38.114h-30.95V51.429z"/><path fill="#EBEBEB" d="M64.083 87.349l-.061.018-15.403-4.159-.985-11.031H33.752l1.937 21.717 28.331 7.863.063-.018v-14.39z"/><path fill="#fff" d="M81.127 64.675l-1.666 18.522-15.426 4.164v14.39l28.354-7.858.208-2.337 2.406-26.881H81.127z"/><path fill="#EBEBEB" d="M64.048 23.435v13.831H30.64l-.277-3.108-.63-7.012-.331-3.711h34.646zm-.047 27.996v13.831H48.792l-.277-3.108-.631-7.012-.33-3.711h16.447z"/>
-</g></g>
+<g class="pop" style="--d:0.07s"><g transform="translate(6,4)"><path d="M18 14 H54 L51 50 L36 56 L21 50 Z" fill="#3E8EDE"/><text x="36" y="42" text-anchor="middle" font-size="24" font-weight="800" fill="#fff">3</text></g></g>
 <text x="42" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#EAF1FB">CSS</text>
 </svg>

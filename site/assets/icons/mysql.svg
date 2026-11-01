@@ -15,7 +15,7 @@
 .ul{stroke-dasharray:1;animation:drawL .8s ease-out var(--d,0s) both}
 @media (prefers-reduced-motion:reduce){.pop,.rise,.f,.pulse,.spine,.trav,.ul{animation:none}.trav{opacity:0}}
 </style>
-<rect x=".75" y=".75" width="82.5" height="98.5" rx="14" fill="#17325C" stroke="#35557F" stroke-width="1.5"/>
-<g class="pop" style="--d:0.70s"><g transform="translate(6,4)"><path d="M16 20 V48 A20 7 0 0 0 56 48 V20 Z" fill="#2F7FB5"/><ellipse cx="36" cy="20" rx="20" ry="7" fill="#4DA3D9"/><path d="M16 34 A20 7 0 0 0 56 34" fill="none" stroke="#0F2447" stroke-width="2"/></g></g>
-<text x="42" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#EAF1FB">MySQL</text>
+<rect x=".75" y=".75" width="82.5" height="98.5" rx="14" fill="#131315" stroke="#2E2E33" stroke-width="1.5"/>
+<g class="pop" style="--d:0.70s"><g transform="translate(6,4)"><path d="M16 20 V48 A20 7 0 0 0 56 48 V20 Z" fill="#2F7FB5"/><ellipse cx="36" cy="20" rx="20" ry="7" fill="#4DA3D9"/><path d="M16 34 A20 7 0 0 0 56 34" fill="none" stroke="#0A0A0B" stroke-width="2"/></g></g>
+<text x="42" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#F3EFE6">MySQL</text>
 </svg>

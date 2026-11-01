@@ -15,7 +15,7 @@
 .ul{stroke-dasharray:1;animation:drawL .8s ease-out var(--d,0s) both}
 @media (prefers-reduced-motion:reduce){.pop,.rise,.f,.pulse,.spine,.trav,.ul{animation:none}.trav{opacity:0}}
 </style>
-<rect x=".75" y=".75" width="82.5" height="98.5" rx="14" fill="#17325C" stroke="#35557F" stroke-width="1.5"/>
-<g class="pop" style="--d:0.91s"><g transform="translate(6,4)"><path d="M48 12 L60 18 V54 L48 60 L24 38 L14 46 L10 44 V28 L14 26 L24 34 Z" fill="#3BA1F0"/><path d="M48 26 L34 36 L48 46 Z" fill="#0F2447"/></g></g>
-<text x="42" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#EAF1FB">VS Code</text>
+<rect x=".75" y=".75" width="82.5" height="98.5" rx="14" fill="#131315" stroke="#2E2E33" stroke-width="1.5"/>
+<g class="pop" style="--d:0.91s"><g transform="translate(6,4)"><path d="M48 12 L60 18 V54 L48 60 L24 38 L14 46 L10 44 V28 L14 26 L24 34 Z" fill="#3BA1F0"/><path d="M48 26 L34 36 L48 46 Z" fill="#0A0A0B"/></g></g>
+<text x="42" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#F3EFE6">VS Code</text>
 </svg>

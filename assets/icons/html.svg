@@ -1,12 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84 100" width="84" height="100" role="img" aria-label="HTML">
 <title>HTML</title>
 <style>text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,system-ui,sans-serif}
-@keyframes rise{from{opacity:0;transform:translateY(6px)}}
-.pop{animation:rise .5s ease-out both}
-@media (prefers-reduced-motion:reduce){.pop{animation:none}}</style>
+@keyframes rise{from{opacity:0;transform:translateY(8px)}}
+@keyframes fade{from{opacity:0}}
+@keyframes pulse{50%{transform:scale(1.35);opacity:.6}}
+@keyframes growY{from{transform:scaleY(0)}}
+@keyframes drawL{from{stroke-dashoffset:1}}
+@keyframes trav{0%{transform:translateX(0);opacity:0}8%,92%{opacity:1}100%{transform:translateX(640px);opacity:0}}
+.pop,.rise{animation:rise .6s ease-out var(--d,0s) both}
+.f{animation:fade .8s ease-out var(--d,0s) both}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 3.2s ease-in-out infinite}
+.spine{transform-box:fill-box;transform-origin:top;animation:growY .9s ease-out both}
+.trav{animation:trav 5s ease-in-out 2.2s infinite}
+.ul{stroke-dasharray:1;animation:drawL .8s ease-out var(--d,0s) both}
+@media (prefers-reduced-motion:reduce){.pop,.rise,.f,.pulse,.spine,.trav,.ul{animation:none}.trav{opacity:0}}
+</style>
 <rect x=".75" y=".75" width="82.5" height="98.5" rx="14" fill="#17325C" stroke="#35557F" stroke-width="1.5"/>
-<g class="pop"><g transform="translate(42 46) scale(0.5) translate(-64 -64)">
-<path fill="#E44D26" d="M19.037 113.876L9.032 1.661h109.936l-10.016 112.198-45.019 12.48z"/><path fill="#F16529" d="M64 116.8l36.378-10.086 8.559-95.878H64z"/><path fill="#EBEBEB" d="M64 52.455H45.788L44.53 38.361H64V24.599H29.489l.33 3.692 3.382 37.927H64zm0 35.743l-.061.017-15.327-4.14-.979-10.975H33.816l1.928 21.609 28.193 7.826.063-.017z"/><path fill="#fff" d="M63.952 52.455v13.763h16.947l-1.597 17.849-15.35 4.143v14.319l28.215-7.82.207-2.325 3.234-36.233.335-3.696h-3.708zm0-27.856v13.762h33.244l.276-3.092.628-6.978.329-3.692z"/>
-</g></g>
+<g class="pop" style="--d:0.00s"><g transform="translate(6,4)"><path d="M18 14 H54 L51 50 L36 56 L21 50 Z" fill="#E8643A"/><text x="36" y="42" text-anchor="middle" font-size="24" font-weight="800" fill="#fff">5</text></g></g>
 <text x="42" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#EAF1FB">HTML</text>
 </svg>

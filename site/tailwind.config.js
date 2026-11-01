@@ -4,25 +4,27 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        deep: "#0F2447",
-        paper: "#17325C",
-        edge: "#35557F",
-        chalk: "#EAF1FB",
-        muted: "#AFC3E2",
-        amber: "#FFB02E",
+        ink: "#0A0A0A",
+        panel: "#121212",
+        line: "#2A2622",
+        ember: { DEFAULT: "#E8631A", hi: "#F59A4A", lo: "#D9631F" },
+        bone: "#F3EFE6",
+        mute: "#948E85",
       },
       fontFamily: {
-        sans: ["Segoe UI", "Helvetica Neue", "Helvetica", "Arial", "system-ui", "sans-serif"],
+        sans: ["Roboto", "Segoe UI", "Helvetica Neue", "Helvetica", "Arial", "system-ui", "sans-serif"],
       },
       keyframes: {
-        draw: { from: { strokeDashoffset: "1" }, to: { strokeDashoffset: "0" } },
-        rise: { from: { opacity: "0", transform: "translateY(14px)" }, to: { opacity: "1", transform: "none" } },
+        rise: { from: { opacity: "0", transform: "translateY(24px)" }, to: { opacity: "1", transform: "none" } },
+        drift: { from: { transform: "translateY(0)" }, to: { transform: "translateY(-16px)" } },
+        twinkle: { "0%,100%": { opacity: ".35", transform: "scale(.8)" }, "50%": { opacity: "1", transform: "scale(1.15)" } },
         nudge: { "50%": { transform: "translateX(6px)" } },
         kenburns: { to: { transform: "scale(1.06)" } },
       },
       animation: {
-        draw: "draw 1.4s ease-out both",
-        rise: "rise .7s ease-out both",
+        rise: "rise .9s cubic-bezier(.2,.7,.2,1) both",
+        drift: "drift 14s ease-in-out infinite alternate",
+        twinkle: "twinkle 3.6s ease-in-out infinite",
         nudge: "nudge 1.8s ease-in-out infinite",
         kenburns: "kenburns 16s ease-in-out infinite alternate",
       },

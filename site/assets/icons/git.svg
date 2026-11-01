@@ -15,7 +15,7 @@
 .ul{stroke-dasharray:1;animation:drawL .8s ease-out var(--d,0s) both}
 @media (prefers-reduced-motion:reduce){.pop,.rise,.f,.pulse,.spine,.trav,.ul{animation:none}.trav{opacity:0}}
 </style>
-<rect x=".75" y=".75" width="82.5" height="98.5" rx="14" fill="#17325C" stroke="#35557F" stroke-width="1.5"/>
+<rect x=".75" y=".75" width="82.5" height="98.5" rx="14" fill="#131315" stroke="#2E2E33" stroke-width="1.5"/>
 <g class="pop" style="--d:0.77s"><g transform="translate(6,4)"><g transform="rotate(45 36 34)"><rect x="19" y="17" width="34" height="34" rx="5" fill="#F1502F"/></g><path d="M30 26 V42 M30 34 H43" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/><circle cx="30" cy="26" r="3.8" fill="#fff"/><circle cx="30" cy="42" r="3.8" fill="#fff"/><circle cx="43" cy="34" r="3.8" fill="#fff"/></g></g>
-<text x="42" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#EAF1FB">Git</text>
+<text x="42" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#F3EFE6">Git</text>
 </svg>

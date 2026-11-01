@@ -15,7 +15,7 @@
 .ul{stroke-dasharray:1;animation:drawL .8s ease-out var(--d,0s) both}
 @media (prefers-reduced-motion:reduce){.pop,.rise,.f,.pulse,.spine,.trav,.ul{animation:none}.trav{opacity:0}}
 </style>
-<rect x=".75" y=".75" width="82.5" height="98.5" rx="14" fill="#17325C" stroke="#35557F" stroke-width="1.5"/>
+<rect x=".75" y=".75" width="82.5" height="98.5" rx="14" fill="#131315" stroke="#2E2E33" stroke-width="1.5"/>
 <g class="pop" style="--d:0.56s"><g transform="translate(6,4)"><rect x="12" y="10" width="48" height="48" rx="12" fill="#F05138"/><path d="M45 21 C48 26 48 31 46 35 C49 37 51 40 51 40 C48 39 46 39 44 40 C38 46 29 45 23 40 C28 41 33 40 36 38 C30 36 25 31 22 25 C27 29 32 32 37 34 C32 30 29 26 28 22 C33 26 39 31 45 34 C45 30 44 25 41 21 Z" fill="#fff"/></g></g>
-<text x="42" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#EAF1FB">Swift</text>
+<text x="42" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#F3EFE6">Swift</text>
 </svg>

@@ -15,7 +15,7 @@
 .ul{stroke-dasharray:1;animation:drawL .8s ease-out var(--d,0s) both}
 @media (prefers-reduced-motion:reduce){.pop,.rise,.f,.pulse,.spine,.trav,.ul{animation:none}.trav{opacity:0}}
 </style>
-<rect x=".75" y=".75" width="82.5" height="98.5" rx="14" fill="#17325C" stroke="#35557F" stroke-width="1.5"/>
+<rect x=".75" y=".75" width="82.5" height="98.5" rx="14" fill="#131315" stroke="#2E2E33" stroke-width="1.5"/>
 <g class="pop" style="--d:0.28s"><g transform="translate(6,4)"><g transform="translate(9,18)"><path fill="#38BDF8" d="M27 0c-7.2 0-11.7 3.6-13.5 10.8 2.7-3.6 5.85-4.95 9.45-4.05 2.054.513 3.522 2.004 5.147 3.653C30.744 13.09 33.808 16.2 40.5 16.2c7.2 0 11.7-3.6 13.5-10.8-2.7 3.6-5.85 4.95-9.45 4.05-2.054-.513-3.522-2.004-5.147-3.653C36.756 3.11 33.692 0 27 0zM13.5 16.2C6.3 16.2 1.8 19.8 0 27c2.7-3.6 5.85-4.95 9.45-4.05 2.054.514 3.522 2.004 5.147 3.653C17.244 29.29 20.308 32.4 27 32.4c7.2 0 11.7-3.6 13.5-10.8-2.7 3.6-5.85 4.95-9.45 4.05-2.054-.513-3.522-2.004-5.147-3.653C23.256 19.31 20.192 16.2 13.5 16.2z"/></g></g></g>
-<text x="42" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#EAF1FB">Tailwind</text>
+<text x="42" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#F3EFE6">Tailwind</text>
 </svg>

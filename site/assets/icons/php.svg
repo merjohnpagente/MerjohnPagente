@@ -15,7 +15,7 @@
 .ul{stroke-dasharray:1;animation:drawL .8s ease-out var(--d,0s) both}
 @media (prefers-reduced-motion:reduce){.pop,.rise,.f,.pulse,.spine,.trav,.ul{animation:none}.trav{opacity:0}}
 </style>
-<rect x=".75" y=".75" width="82.5" height="98.5" rx="14" fill="#17325C" stroke="#35557F" stroke-width="1.5"/>
-<g class="pop" style="--d:0.21s"><g transform="translate(6,4)"><ellipse cx="36" cy="34" rx="25" ry="16" fill="#8892BF"/><text x="36" y="40" text-anchor="middle" font-size="19" font-weight="800" font-style="italic" fill="#0F2447">php</text></g></g>
-<text x="42" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#EAF1FB">PHP</text>
+<rect x=".75" y=".75" width="82.5" height="98.5" rx="14" fill="#131315" stroke="#2E2E33" stroke-width="1.5"/>
+<g class="pop" style="--d:0.21s"><g transform="translate(6,4)"><ellipse cx="36" cy="34" rx="25" ry="16" fill="#8892BF"/><text x="36" y="40" text-anchor="middle" font-size="19" font-weight="800" font-style="italic" fill="#0A0A0B">php</text></g></g>
+<text x="42" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#F3EFE6">PHP</text>
 </svg>

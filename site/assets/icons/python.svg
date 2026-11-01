@@ -15,7 +15,7 @@
 .ul{stroke-dasharray:1;animation:drawL .8s ease-out var(--d,0s) both}
 @media (prefers-reduced-motion:reduce){.pop,.rise,.f,.pulse,.spine,.trav,.ul{animation:none}.trav{opacity:0}}
 </style>
-<rect x=".75" y=".75" width="82.5" height="98.5" rx="14" fill="#17325C" stroke="#35557F" stroke-width="1.5"/>
-<g class="pop" style="--d:0.63s"><g transform="translate(6,4)"><rect x="16" y="12" width="28" height="28" rx="10" fill="#3E7BB6"/><rect x="28" y="30" width="28" height="28" rx="10" fill="#FFD43B"/><circle cx="25" cy="21" r="2.4" fill="#EAF1FB"/><circle cx="47" cy="49" r="2.4" fill="#0F2447"/></g></g>
-<text x="42" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#EAF1FB">Python</text>
+<rect x=".75" y=".75" width="82.5" height="98.5" rx="14" fill="#131315" stroke="#2E2E33" stroke-width="1.5"/>
+<g class="pop" style="--d:0.63s"><g transform="translate(6,4)"><rect x="16" y="12" width="28" height="28" rx="10" fill="#3E7BB6"/><rect x="28" y="30" width="28" height="28" rx="10" fill="#FFD43B"/><circle cx="25" cy="21" r="2.4" fill="#F3EFE6"/><circle cx="47" cy="49" r="2.4" fill="#0A0A0B"/></g></g>
+<text x="42" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#F3EFE6">Python</text>
 </svg>
