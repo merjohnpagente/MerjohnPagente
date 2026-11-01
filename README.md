@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-3d.svg" alt="Merjohn Pagente — BSCS student at Tangub City Global College" width="100%"/>
+  <img src="./assets/banner.svg" alt="Merjohn Pagente — BSCS student at Tangub City Global College" width="100%"/>
 </p>
 
 <p align="center">
