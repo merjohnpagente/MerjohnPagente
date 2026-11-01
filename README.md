@@ -40,7 +40,7 @@ More on my [portfolio site](https://merjohnpagente.github.io/merjohnportfolio/) 
 
 <p align="center">
   <a href="https://merjohnpagente.github.io/merjohnportfolio/">
-    <img src="./assets/portfolio.svg" alt="Animated preview of my portfolio website: Home, About, My Work and Contact" width="100%"/>
+    <img src="./assets/portfolio-preview.svg" alt="Animated preview of my portfolio website: Home, About, My Work and Contact" width="100%"/>
   </a>
 </p>
 
