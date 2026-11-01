@@ -37,7 +37,7 @@ text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,system-ui,sans-seri
 
 <text class="fade" x="58" y="146" font-size="66" font-weight="800" fill="#EAF1FB" letter-spacing="-1" style="animation-delay:.2s">Merjohn Pagente</text>
 <text class="fade" x="60" y="198" font-size="26" fill="#EAF1FB" style="animation-delay:.5s">BSCS student at Tangub City Global College</text>
-<text class="fade" x="60" y="248" font-size="19" fill="#AFC3E2" style="animation-delay:.8s">I build web and mobile apps for clinics, gyms and public transport.</text>
+<text class="fade" x="60" y="248" font-size="19" fill="#AFC3E2" style="animation-delay:.8s">I build web apps, mobile apps and offline tools that solve real problems.</text>
 
 <g fill="none" stroke="#FFB02E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
 <line x1="60" y1="276" x2="700" y2="276" pathLength="1" class="draw" style="animation-delay:0.1s"/>
@@ -71,6 +71,6 @@ text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,system-ui,sans-seri
 <g font-size="16" fill="#AFC3E2" text-anchor="middle">
 <text class="fade" x="832" y="234" style="animation-delay:1.4s">Flutter</text>
 <text class="fade" x="965" y="234" style="animation-delay:1.5s">Web</text>
-<text class="fade" x="1105" y="234" style="animation-delay:1.6s">MySQL</text>
+<text class="fade" x="1105" y="234" style="animation-delay:1.6s">Firebase</text>
 </g>
 <circle class="trav" cx="60" cy="276" r="4.5" fill="#FFB02E"/></svg>

@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-labelledby="t d">
+<title id="t">Merjohn Pagente — BSCS student at Tangub City Global College</title>
+<desc id="d">Web developer and UI/UX designer who builds web apps, mobile apps and offline tools.</desc>
+<defs>
+<pattern id="gridMinor" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#2B4C80" stroke-width="1" opacity="0.35"/></pattern>
+<pattern id="gridMajor" width="120" height="120" patternUnits="userSpaceOnUse"><path d="M120 0H0V120" fill="none" stroke="#3B6AA8" stroke-width="1.2" opacity="0.28"/></pattern>
+<radialGradient id="glowGold" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#FFB02E" stop-opacity="0.22"/><stop offset="100%" stop-color="#FFB02E" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowBlue" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#3B6AA8" stop-opacity="0.38"/><stop offset="100%" stop-color="#3B6AA8" stop-opacity="0"/></radialGradient>
+<linearGradient id="panelFace" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#24466F"/><stop offset="100%" stop-color="#142C50"/></linearGradient>
+<linearGradient id="panelFace2" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1D3A66"/><stop offset="100%" stop-color="#0F2444"/></linearGradient>
+<linearGradient id="goldLine" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#FFB02E" stop-opacity="0"/><stop offset="50%" stop-color="#FFB02E"/><stop offset="100%" stop-color="#FFB02E" stop-opacity="0"/></linearGradient>
+<filter id="softShadow" x="-40%" y="-40%" width="180%" height="200%"><feDropShadow dx="0" dy="16" stdDeviation="14" flood-color="#000" flood-opacity="0.42"/></filter>
+<filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="cardClip"><rect width="1200" height="360" rx="18"/></clipPath>
+</defs>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,system-ui,sans-serif}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}}
+@keyframes fade{from{opacity:0}}
+@keyframes floaty{0%,100%{transform:translateY(0) rotate(0deg)}50%{transform:translateY(-10px) rotate(1.1deg)}}
+@keyframes floaty2{0%,100%{transform:translateY(0) rotate(0deg)}50%{transform:translateY(-14px) rotate(-1.2deg)}}
+@keyframes pulse{0%,100%{opacity:.55;transform:scale(1)}50%{opacity:.95;transform:scale(1.08)}}
+@keyframes drift{0%{opacity:0;transform:translateY(14px)}18%{opacity:.9}82%{opacity:.25}100%{opacity:0;transform:translateY(-46px)}}
+@keyframes cubeTurn{0%,100%{transform:translateY(0) rotate(-8deg)}50%{transform:translateY(-7px) rotate(8deg)}}
+.rise{animation:rise .7s cubic-bezier(.2,.7,.2,1) var(--d,0s) both}
+.f{animation:fade .9s ease-out var(--d,0s) both}
+.float1{animation:floaty 7s ease-in-out -1s infinite}
+.float2{animation:floaty2 8.5s ease-in-out -3.4s infinite}
+.float3{animation:floaty 9s ease-in-out -5.6s infinite}
+.cube{transform-box:fill-box;transform-origin:center;animation:cubeTurn 6s ease-in-out infinite}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 5.5s ease-in-out infinite}
+.part{animation:drift 6s ease-in-out infinite}
+.p2{animation-duration:7.5s;animation-delay:-2.4s}
+.p3{animation-duration:8.5s;animation-delay:-4.1s}
+.p4{animation-duration:6.8s;animation-delay:-1.2s}
+.p5{animation-duration:9s;animation-delay:-5.2s}
+@media (prefers-reduced-motion:reduce){.rise,.f,.float1,.float2,.float3,.cube,.pulse,.part{animation:none}.orbitDot{display:none}}
+</style>
+<g clip-path="url(#cardClip)">
+<rect width="1200" height="360" fill="#17325C"/>
+<rect width="1200" height="360" fill="url(#gridMinor)"/>
+<rect width="1200" height="360" fill="url(#gridMajor)"/>
+<ellipse cx="920" cy="184" rx="300" ry="200" fill="url(#glowBlue)"/>
+<ellipse cx="920" cy="184" rx="180" ry="130" fill="url(#glowGold)"/>
+<g stroke="#3B6AA8" stroke-width="1" opacity="0.2">
+<path d="M620 360 L920 190"/><path d="M700 360 L920 190"/><path d="M780 360 L920 190"/><path d="M860 360 L920 190"/><path d="M980 360 L920 190"/><path d="M1060 360 L920 190"/><path d="M1140 360 L920 190"/><path d="M1220 360 L920 190"/>
+<path d="M560 270 H1320" opacity=".55"/><path d="M540 310 H1340" opacity=".4"/><path d="M520 350 H1360" opacity=".28"/>
+</g>
+</g>
+<rect x=".75" y=".75" width="1198.5" height="358.5" rx="17.5" fill="none" stroke="#35557F" stroke-width="1.5"/>
+
+<g class="rise" style="--d:.1s"><text x="60" y="82" font-size="13" font-weight="700" fill="#FFB02E" letter-spacing="3">BSCS STUDENT · WEB DEVELOPER</text></g>
+<g class="rise" style="--d:.2s">
+<text x="60" y="154" font-size="62" font-weight="800" fill="#0B1B33" opacity=".55" letter-spacing="-1.5">Merjohn Pagente</text>
+<text x="60" y="150" font-size="62" font-weight="800" fill="#EAF1FB" letter-spacing="-1.5">Merjohn Pagente</text>
+</g>
+<g class="rise" style="--d:.32s"><text x="62" y="192" font-size="22" font-weight="600" fill="#FFB02E">Web Developer · UI/UX Designer</text></g>
+<g class="f" style="--d:.46s">
+<text x="62" y="234" font-size="17" fill="#AFC3E2">I build web apps, mobile apps and offline tools</text>
+<text x="62" y="258" font-size="17" fill="#AFC3E2">that solve real problems.</text>
+</g>
+<g class="f" style="--d:.62s">
+<path d="M62 292 H148" stroke="#FFB02E" stroke-width="2.5" stroke-linecap="round"/>
+<text x="162" y="298" font-size="14" fill="#AFC3E2">Tangub City Global College</text>
+</g>
+
+<circle cx="920" cy="184" r="150" fill="url(#glowGold)" class="pulse"/>
+
+<g class="orbitDot" transform="translate(920 184) rotate(-14)">
+<ellipse rx="236" ry="86" fill="none" stroke="#FFB02E" stroke-opacity="0.28" stroke-width="1.5" stroke-dasharray="3 9"/>
+<ellipse rx="236" ry="86" fill="none" stroke="#3B6AA8" stroke-opacity="0.35" stroke-width="1"/>
+<circle r="5" fill="#FFB02E" filter="url(#glow)"><animateMotion dur="9s" repeatCount="indefinite" path="M -236 0 A 236 86 0 1 0 236 0 A 236 86 0 1 0 -236 0"/></circle>
+<circle r="3.5" fill="#EAF1FB" opacity=".85"><animateMotion dur="13s" begin="-4.5s" repeatCount="indefinite" path="M 236 0 A 236 86 0 1 1 -236 0 A 236 86 0 1 1 236 0"/></circle>
+</g>
+
+<g transform="translate(780 68) rotate(-8)"><g class="float1" filter="url(#softShadow)">
+<rect x="8" y="8" width="210" height="130" rx="8" fill="#0B1B33"/>
+<rect x="4" y="4" width="210" height="130" rx="8" fill="#0F2444"/>
+<rect width="210" height="130" rx="8" fill="url(#panelFace)" stroke="#4A6FA5" stroke-width="1.2"/>
+<path d="M0 28 H210" stroke="#35557F" stroke-width="1"/>
+<circle cx="16" cy="14" r="3.5" fill="#FF6B6B"/><circle cx="28" cy="14" r="3.5" fill="#FFB02E"/><circle cx="40" cy="14" r="3.5" fill="#3DDC97"/>
+<rect x="58" y="8" width="120" height="12" rx="6" fill="#0F2444"/>
+<rect x="18" y="46" width="94" height="9" rx="4.5" fill="#FFB02E"/>
+<rect x="18" y="64" width="150" height="6" rx="3" fill="#4A6FA5"/>
+<rect x="18" y="78" width="130" height="6" rx="3" fill="#4A6FA5"/>
+<rect x="18" y="98" width="52" height="20" rx="5" fill="#2B4C80" stroke="#4A6FA5" stroke-width=".8"/>
+<rect x="78" y="98" width="52" height="20" rx="5" fill="#2B4C80" stroke="#4A6FA5" stroke-width=".8"/>
+<rect x="24" y="105" width="28" height="4" rx="2" fill="#FFB02E" opacity=".85"/>
+<rect x="84" y="105" width="28" height="4" rx="2" fill="#FFB02E" opacity=".5"/>
+<path d="M0 30 H210" stroke="url(#goldLine)" stroke-width="1.2" opacity=".7"/>
+</g></g>
+
+<g transform="translate(870 232) rotate(-4)"><g class="float3" filter="url(#softShadow)">
+<rect x="8" y="8" width="170" height="90" rx="8" fill="#0B1B33"/>
+<rect x="4" y="4" width="170" height="90" rx="8" fill="#0F2444"/>
+<rect width="170" height="90" rx="8" fill="url(#panelFace)" stroke="#4A6FA5" stroke-width="1.2"/>
+<circle cx="14" cy="14" r="3" fill="#FF6B6B"/><circle cx="24" cy="14" r="3" fill="#FFB02E"/><circle cx="34" cy="14" r="3" fill="#3DDC97"/>
+<text x="14" y="42" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10.5" fill="#FFB02E">$ npm run build</text>
+<text x="14" y="60" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10.5" fill="#AFC3E2">> shipped &amp; documented</text>
+<text x="14" y="78" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10.5" fill="#AFC3E2">> build · ship · repeat</text>
+</g></g>
+
+<g transform="translate(1040 92) rotate(8)"><g class="float2" filter="url(#softShadow)">
+<rect x="7" y="7" width="92" height="180" rx="18" fill="#0B1B33"/>
+<rect x="3" y="3" width="92" height="180" rx="18" fill="#0F2444"/>
+<rect width="92" height="180" rx="18" fill="url(#panelFace2)" stroke="#4A6FA5" stroke-width="1.2"/>
+<rect x="28" y="8" width="36" height="6" rx="3" fill="#0B1B33"/>
+<rect x="12" y="26" width="68" height="60" rx="8" fill="#2B4C80"/>
+<circle cx="46" cy="56" r="14" fill="#FFB02E" opacity=".95"/>
+<path d="M40 56 l4 4 l8 -9" stroke="#17325C" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="18" y="98" width="56" height="6" rx="3" fill="#FFB02E" opacity=".85"/>
+<rect x="18" y="112" width="44" height="5" rx="2.5" fill="#4A6FA5"/>
+<rect x="18" y="126" width="52" height="5" rx="2.5" fill="#4A6FA5"/>
+<rect x="18" y="146" width="56" height="18" rx="9" fill="#FFB02E" opacity=".92"/>
+</g></g>
+
+<g transform="translate(1012 194)"><g class="cube">
+<polygon points="0,-18 18,-9 0,0 -18,-9" fill="#FFB02E" opacity=".95"/>
+<polygon points="-18,-9 0,0 0,22 -18,13" fill="#B57C16"/>
+<polygon points="18,-9 0,0 0,22 18,13" fill="#D99A24"/>
+<path d="M0,-18 L18,-9 L0,0 L-18,-9 Z" fill="none" stroke="#FFD27A" stroke-width="1" opacity=".8"/>
+</g></g>
+
+<g fill="#FFB02E">
+<circle class="part" cx="742" cy="300" r="2.4" opacity=".8"/>
+<circle class="part p2" cx="1108" cy="286" r="2" opacity=".7"/>
+<circle class="part p3" cx="860" cy="330" r="1.8" opacity=".6"/>
+<circle class="part p4" cx="1170" cy="210" r="2.6" opacity=".7"/>
+<circle class="part p5" cx="690" cy="220" r="1.6" opacity=".6"/>
+</g>
+</svg>
