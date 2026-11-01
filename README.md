@@ -82,9 +82,17 @@ Six builds from my portfolio — each one shipped, linked and open to explore.
 
 **Also in the portfolio:** [Gorilla Gym](https://merjohnpagente.github.io/gorillagymapp/) — a Flutter gym management app built around Strength · Focus · Discipline.
 
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
+
+## My portfolio
+
 <p align="center">
-  <a href="https://merjohnpagente.github.io/"><img src="./assets/portfolio-cta.svg" alt="See every project on my portfolio" width="100%"/></a>
+  <a href="https://merjohnpagente.github.io/">
+    <img src="./assets/portfolio-preview.svg" alt="Animated preview of my portfolio website: Home, About, My Work and Contact" width="100%"/>
+  </a>
 </p>
+
+<p align="center"><sub>Live at <a href="https://merjohnpagente.github.io/">merjohnpagente.github.io</a> — click the preview to explore.</sub></p>
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
