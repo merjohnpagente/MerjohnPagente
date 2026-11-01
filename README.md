@@ -1,13 +1,21 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Merjohn Pagente, BSCS student at Tangub City Global College" width="100%"/>
+  <img src="./assets/header-3d.svg" alt="Merjohn Pagente — BSCS student at Tangub City Global College" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/merjohnpagente"><img src="./assets/contact/github.svg" alt="GitHub" height="44"/></a>
-  <a href="https://www.linkedin.com/in/merjohn-pagente-216775448"><img src="./assets/contact/linkedin.svg" alt="LinkedIn" height="44"/></a>
-  <a href="https://merjohnpagente.github.io/"><img src="./assets/contact/portfolio.svg" alt="Portfolio" height="44"/></a>
-  <a href="https://web.facebook.com/Mjhnnjhn"><img src="./assets/contact/facebook.svg" alt="Facebook" height="44"/></a>
-  <a href="mailto:merjohnpagente2004@gmail.com"><img src="./assets/contact/email.svg" alt="Email" height="44"/></a>
+  <a href="https://merjohnpagente.github.io/" title="Portfolio"><img src="./assets/contact/portfolio.svg" alt="Portfolio" height="44"/></a>
+  <a href="https://web.facebook.com/Mjhnnjhn" title="Facebook"><img src="./assets/contact/facebook.svg" alt="Facebook" height="44"/></a>
+  <a href="mailto:merjohnpagente2004@gmail.com" title="Email"><img src="./assets/contact/email.svg" alt="Email" height="44"/></a>
+</p>
+
+<p align="center">
+  <sub>BSCS student · Tangub City, Philippines · Open to collaborations</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BSCS-Student-17325C?style=for-the-badge&logo=googlescholar&logoColor=FFB02E" alt="BSCS Student"/>
+  <img src="https://img.shields.io/badge/Web_Developer-17325C?style=for-the-badge&logo=visualstudiocode&logoColor=FFB02E" alt="Web Developer"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-Designer-17325C?style=for-the-badge&logo=figma&logoColor=FFB02E" alt="UI/UX Designer"/>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
@@ -15,25 +23,73 @@
 ## About me
 
 <p align="center">
-  <img src="./assets/about.svg" alt="Merjohn Pagente, BSCS student at Tangub City Global College, Institute of Computer Studies, Tangub City, Misamis Occidental" width="100%"/>
+  <img src="./assets/about.svg" alt="Merjohn Pagente — BSCS student at Tangub City Global College, Institute of Computer Studies, Tangub City, Misamis Occidental" width="100%"/>
 </p>
 
-I am a Computer Science student who learns by shipping. Most of my work starts as a school requirement, a capstone, a thesis or a final project, and ends as a working system that someone could actually use.
+I'm **Merjohn Pagente**, a Computer Science student at **Tangub City Global College** who learns by shipping. Most of my work starts as a school requirement, a capstone or a final project — and ends as a working product built for real people.
+
+I care about clean interfaces, systems that stay out of the way, and code that actually runs. Lately I've been building gym management systems, an offline classroom casting app and a food delivery platform.
+
+- **Web** — dashboards, management systems and tools with real utility
+- **Mobile** — Flutter apps that share one codebase across platforms
+- **Offline-first** — software that keeps working when the internet doesn't
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
-## What I have built
+## Featured projects
+
+Six builds from my portfolio — each one shipped, linked and open to explore.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://fitcoregyms.vercel.app"><img src="./assets/projects/fitcore.jpg" alt="FitCore Gym Management dashboard" width="100%"></a><br><br>
+<strong>FitCore Gym Management</strong><br>
+<sub>Gym operations · JavaScript · Firebase</sub><br>
+<a href="https://fitcoregyms.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-D99A24?style=for-the-badge&logo=vercel&logoColor=17325C" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/FITCORE-GYM-MANAGEMENT-SYSTEM"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://classcastmjdev.vercel.app"><img src="./assets/projects/classcast.jpg" alt="ClassCast offline classroom casting" width="100%"></a><br><br>
+<strong>ClassCast</strong><br>
+<sub>Offline classroom · Flutter · WebSocket</sub><br>
+<a href="https://classcastmjdev.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-D99A24?style=for-the-badge&logo=vercel&logoColor=17325C" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/ClassCast"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://johnfoodland.vercel.app"><img src="./assets/projects/johnfood.jpg" alt="Johnfood Delivery website" width="100%"></a><br><br>
+<strong>Johnfood Delivery</strong><br>
+<sub>Food ordering · Flutter · Firebase</sub><br>
+<a href="https://johnfoodland.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-D99A24?style=for-the-badge&logo=vercel&logoColor=17325C" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/JohnFood"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://merjohnpagente.github.io/-regex-challenge-game/"><img src="./assets/projects/regex.jpg" alt="Regex Challenge Game" width="100%"></a><br><br>
+<strong>Regex Challenge Game</strong><br>
+<sub>Learning game · HTML · CSS · JavaScript</sub><br>
+<a href="https://merjohnpagente.github.io/-regex-challenge-game/"><img src="https://img.shields.io/badge/Live_Demo-D99A24?style=for-the-badge&logo=githubpages&logoColor=17325C" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/regex-challenge-game"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://merjohnpagente.github.io/MOMENTUM/"><img src="./assets/projects/momentum.jpg" alt="Momentum gym management system" width="100%"></a><br><br>
+<strong>Momentum</strong><br>
+<sub>Gym operations · HTML · JavaScript · localStorage</sub><br>
+<a href="https://merjohnpagente.github.io/MOMENTUM/"><img src="https://img.shields.io/badge/Live_Demo-D99A24?style=for-the-badge&logo=githubpages&logoColor=17325C" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/MOMENTUM"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://merjohnpagente.github.io/spotify/"><img src="./assets/projects/spotify.jpg" alt="Spotify-inspired streaming UI" width="100%"></a><br><br>
+<strong>Spotify</strong><br>
+<sub>Streaming UI · Flutter · Node.js · MongoDB</sub><br>
+<a href="https://merjohnpagente.github.io/spotify/"><img src="https://img.shields.io/badge/Live_Demo-D99A24?style=for-the-badge&logo=githubpages&logoColor=17325C" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/spotify"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="./assets/projects/health-monitoring.svg" alt="Health Monitoring System" width="49%"/>
-  <img src="./assets/projects/fitcore.svg" alt="FitCore GMS" width="49%"/>
-  <img src="./assets/projects/gorilla-gym.svg" alt="Gorilla Gym" width="49%"/>
-  <img src="./assets/projects/transport-monitoring.svg" alt="Public Transport Monitoring" width="49%"/>
-  <img src="./assets/projects/switchboard.svg" alt="Switchboard" width="49%"/>
-  <img src="./assets/projects/messenger-clone.svg" alt="Messenger UI clone" width="49%"/>
+  <a href="https://merjohnpagente.github.io/"><img src="https://img.shields.io/badge/View_all_projects-FFB02E?style=for-the-badge&logo=githubpages&logoColor=17325C" alt="View all projects" height="28"/></a>
 </p>
 
-More on my [portfolio site](https://merjohnpagente.github.io/) and in my [repositories](https://github.com/merjohnpagente?tab=repositories).
+**Also in the portfolio:** <a href="https://merjohnpagente.github.io/gorillagymapp/"><img src="https://img.shields.io/badge/Gorilla_Gym-View_project-17325C?style=for-the-badge&logo=flutter&logoColor=FFB02E" alt="Gorilla Gym" height="28"/></a> — a Flutter gym management app built around Strength · Focus · Discipline.
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
@@ -49,12 +105,12 @@ More on my [portfolio site](https://merjohnpagente.github.io/) and in my [reposi
 
 ## Tech stack
 
-**Web**
+**Frontend**
 <p>
   <img src="./assets/icons/html.svg" alt="HTML" width="72"/>
   <img src="./assets/icons/css.svg" alt="CSS" width="72"/>
   <img src="./assets/icons/javascript.svg" alt="JavaScript" width="72"/>
-  <img src="./assets/icons/php.svg" alt="PHP" width="72"/>
+  <img src="./assets/icons/react.svg" alt="React" width="72"/>
   <img src="./assets/icons/tailwind.svg" alt="Tailwind" width="72"/>
   <img src="./assets/icons/bootstrap.svg" alt="Bootstrap" width="72"/>
 </p>
@@ -68,8 +124,15 @@ More on my [portfolio site](https://merjohnpagente.github.io/) and in my [reposi
 
 **Backend and data**
 <p>
+  <img src="./assets/icons/nodejs.svg" alt="Node.js" width="72"/>
+  <img src="./assets/icons/express.svg" alt="Express" width="72"/>
   <img src="./assets/icons/python.svg" alt="Python" width="72"/>
+  <img src="./assets/icons/php.svg" alt="PHP" width="72"/>
   <img src="./assets/icons/mysql.svg" alt="MySQL" width="72"/>
+  <img src="./assets/icons/firebase.svg" alt="Firebase" width="72"/>
+  <img src="./assets/icons/supabase.svg" alt="Supabase" width="72"/>
+  <img src="./assets/icons/mongodb.svg" alt="MongoDB" width="72"/>
+  <img src="./assets/icons/csharp.svg" alt="C#" width="72"/>
 </p>
 
 **Tools**
@@ -77,21 +140,24 @@ More on my [portfolio site](https://merjohnpagente.github.io/) and in my [reposi
   <img src="./assets/icons/git.svg" alt="Git" width="72"/>
   <img src="./assets/icons/github.svg" alt="GitHub" width="72"/>
   <img src="./assets/icons/vscode.svg" alt="VS Code" width="72"/>
+  <img src="./assets/icons/acode.svg" alt="Acode" width="72"/>
   <img src="./assets/icons/figma.svg" alt="Figma" width="72"/>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
-## GitHub activity
+## A year of shipping
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merjohnpagente&show_icons=true&hide_border=false&bg_color=17325C&title_color=FFB02E&text_color=EAF1FB&icon_color=FFB02E&ring_color=FFB02E&border_color=35557F&border_radius=14" alt="GitHub stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merjohnpagente&layout=compact&bg_color=17325C&title_color=FFB02E&text_color=EAF1FB&icon_color=FFB02E&ring_color=FFB02E&border_color=35557F&border_radius=14" alt="Top languages" width="49%"/>
+  <img src="./assets/contrib-3d.svg" alt="3D isometric GitHub contribution graph — 451 contributions across 69 active days" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=merjohnpagente&background=17325C&stroke=35557F&ring=FFB02E&fire=FFB02E&currStreakNum=EAF1FB&currStreakLabel=FFB02E&sideNums=EAF1FB&sideLabels=AFC3E2&dates=AFC3E2&border_radius=14&hide_border=true" alt="GitHub streak" width="70%"/>
+  <a href="https://github.com/merjohnpagente"><img src="https://img.shields.io/github/followers/merjohnpagente?style=for-the-badge&color=17325C&labelColor=0F2444&logo=github&logoColor=FFB02E" alt="Followers"/></a>
+  <a href="https://github.com/merjohnpagente"><img src="https://img.shields.io/github/stars/merjohnpagente?style=for-the-badge&color=17325C&labelColor=0F2444&logo=github&logoColor=FFB02E" alt="Stars"/></a>
 </p>
+
+## Contribution snake
 
 <p align="center">
   <picture>
@@ -101,5 +167,19 @@ More on my [portfolio site](https://merjohnpagente.github.io/) and in my [reposi
 </p>
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
+
+## Let's connect
+
+Have a project, a role to fill, or just want to talk code? My inbox is open.
+
+<p align="center">
+  <a href="mailto:merjohnpagente2004@gmail.com"><img src="https://img.shields.io/badge/Email-17325C?style=for-the-badge&logo=gmail&logoColor=FFB02E" alt="Email"/></a>
+  <a href="https://merjohnpagente.github.io/"><img src="https://img.shields.io/badge/Portfolio-17325C?style=for-the-badge&logo=githubpages&logoColor=FFB02E" alt="Portfolio"/></a>
+  <a href="https://web.facebook.com/Mjhnnjhn"><img src="https://img.shields.io/badge/Facebook-17325C?style=for-the-badge&logo=facebook&logoColor=FFB02E" alt="Facebook"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=merjohnpagente&label=Profile%20views&color=17325c&style=for-the-badge" alt="Profile views"/>
+</p>
 
 <p align="center">Thanks for stopping by. Say hi if you want to build something together.</p>

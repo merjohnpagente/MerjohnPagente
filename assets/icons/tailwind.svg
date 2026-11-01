@@ -1,21 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84 100" width="84" height="100" role="img" aria-label="Tailwind">
 <title>Tailwind</title>
 <style>text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,system-ui,sans-serif}
-@keyframes rise{from{opacity:0;transform:translateY(8px)}}
-@keyframes fade{from{opacity:0}}
-@keyframes pulse{50%{transform:scale(1.35);opacity:.6}}
-@keyframes growY{from{transform:scaleY(0)}}
-@keyframes drawL{from{stroke-dashoffset:1}}
-@keyframes trav{0%{transform:translateX(0);opacity:0}8%,92%{opacity:1}100%{transform:translateX(640px);opacity:0}}
-.pop,.rise{animation:rise .6s ease-out var(--d,0s) both}
-.f{animation:fade .8s ease-out var(--d,0s) both}
-.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 3.2s ease-in-out infinite}
-.spine{transform-box:fill-box;transform-origin:top;animation:growY .9s ease-out both}
-.trav{animation:trav 5s ease-in-out 2.2s infinite}
-.ul{stroke-dasharray:1;animation:drawL .8s ease-out var(--d,0s) both}
-@media (prefers-reduced-motion:reduce){.pop,.rise,.f,.pulse,.spine,.trav,.ul{animation:none}.trav{opacity:0}}
-</style>
+@keyframes rise{from{opacity:0;transform:translateY(6px)}}
+.pop{animation:rise .5s ease-out both}
+@media (prefers-reduced-motion:reduce){.pop{animation:none}}</style>
 <rect x=".75" y=".75" width="82.5" height="98.5" rx="14" fill="#17325C" stroke="#35557F" stroke-width="1.5"/>
-<g class="pop" style="--d:0.28s"><g transform="translate(6,4)"><g transform="translate(9,18)"><path fill="#38BDF8" d="M27 0c-7.2 0-11.7 3.6-13.5 10.8 2.7-3.6 5.85-4.95 9.45-4.05 2.054.513 3.522 2.004 5.147 3.653C30.744 13.09 33.808 16.2 40.5 16.2c7.2 0 11.7-3.6 13.5-10.8-2.7 3.6-5.85 4.95-9.45 4.05-2.054-.513-3.522-2.004-5.147-3.653C36.756 3.11 33.692 0 27 0zM13.5 16.2C6.3 16.2 1.8 19.8 0 27c2.7-3.6 5.85-4.95 9.45-4.05 2.054.514 3.522 2.004 5.147 3.653C17.244 29.29 20.308 32.4 27 32.4c7.2 0 11.7-3.6 13.5-10.8-2.7 3.6-5.85 4.95-9.45 4.05-2.054-.513-3.522-2.004-5.147-3.653C23.256 19.31 20.192 16.2 13.5 16.2z"/></g></g></g>
+<g class="pop"><g transform="translate(42 46) scale(0.5) translate(-64 -64)">
+<path d="M64.004 25.602c-17.067 0-27.73 8.53-32 25.597 6.398-8.531 13.867-11.73 22.398-9.597 4.871 1.214 8.352 4.746 12.207 8.66C72.883 56.629 80.145 64 96.004 64c17.066 0 27.73-8.531 32-25.602-6.399 8.536-13.867 11.735-22.399 9.602-4.87-1.215-8.347-4.746-12.207-8.66-6.27-6.367-13.53-13.738-29.394-13.738zM32.004 64c-17.066 0-27.73 8.531-32 25.602C6.402 81.066 13.87 77.867 22.402 80c4.871 1.215 8.352 4.746 12.207 8.66 6.274 6.367 13.536 13.738 29.395 13.738 17.066 0 27.73-8.53 32-25.597-6.399 8.531-13.867 11.73-22.399 9.597-4.87-1.214-8.347-4.746-12.207-8.66C55.128 71.371 47.868 64 32.004 64zm0 0" fill="#38bdf8"/>
+</g></g>
 <text x="42" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#EAF1FB">Tailwind</text>
 </svg>

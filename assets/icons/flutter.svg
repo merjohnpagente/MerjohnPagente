@@ -1,21 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84 100" width="84" height="100" role="img" aria-label="Flutter">
 <title>Flutter</title>
 <style>text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,system-ui,sans-serif}
-@keyframes rise{from{opacity:0;transform:translateY(8px)}}
-@keyframes fade{from{opacity:0}}
-@keyframes pulse{50%{transform:scale(1.35);opacity:.6}}
-@keyframes growY{from{transform:scaleY(0)}}
-@keyframes drawL{from{stroke-dashoffset:1}}
-@keyframes trav{0%{transform:translateX(0);opacity:0}8%,92%{opacity:1}100%{transform:translateX(640px);opacity:0}}
-.pop,.rise{animation:rise .6s ease-out var(--d,0s) both}
-.f{animation:fade .8s ease-out var(--d,0s) both}
-.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 3.2s ease-in-out infinite}
-.spine{transform-box:fill-box;transform-origin:top;animation:growY .9s ease-out both}
-.trav{animation:trav 5s ease-in-out 2.2s infinite}
-.ul{stroke-dasharray:1;animation:drawL .8s ease-out var(--d,0s) both}
-@media (prefers-reduced-motion:reduce){.pop,.rise,.f,.pulse,.spine,.trav,.ul{animation:none}.trav{opacity:0}}
-</style>
+@keyframes rise{from{opacity:0;transform:translateY(6px)}}
+.pop{animation:rise .5s ease-out both}
+@media (prefers-reduced-motion:reduce){.pop{animation:none}}</style>
 <rect x=".75" y=".75" width="82.5" height="98.5" rx="14" fill="#17325C" stroke="#35557F" stroke-width="1.5"/>
-<g class="pop" style="--d:0.42s"><g transform="translate(6,4)"><path d="M38 12 H52 L24 40 L17 33 Z" fill="#54C5F8"/><path d="M38 36 H52 L38 50 L31 43 Z" fill="#54C5F8"/><path d="M31 57 L24 50 L31 43 L38 50 Z" fill="#0175C2"/></g></g>
+<g class="pop"><g transform="translate(42 46) scale(0.5) translate(-64 -64)">
+<g fill="#3FB6D3"><path d="M12.3 64.2L76.3 0h39.4L32.1 83.6zM76.3 128h39.4L81.6 93.9l34.1-34.8H76.3L42.2 93.5z"/></g><path fill="#27AACD" d="M81.6 93.9l-20-20-19.4 19.6 19.4 19.6z"/><path fill="#19599A" d="M115.7 128L81.6 93.9l-20 19.2L76.3 128z"/><linearGradient id="flutter-original-a" gradientUnits="userSpaceOnUse" x1="59.365" y1="116.36" x2="86.825" y2="99.399"><stop offset="0" stop-color="#1b4e94"/><stop offset=".63" stop-color="#1a5497"/><stop offset="1" stop-color="#195a9b"/></linearGradient><path fill="url(#flutter-original-a)" d="M61.6 113.1l30.8-8.4-10.8-10.8z"/>
+</g></g>
 <text x="42" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#EAF1FB">Flutter</text>
 </svg>
