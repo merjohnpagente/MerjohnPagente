@@ -9,14 +9,13 @@
 </p>
 
 <p align="center">
-  <sub>BSCS student · Tangub City, Philippines · Open to internships &amp; collaborations</sub>
+  <sub>BSCS student · Tangub City, Philippines · Open to collaborations</sub>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/BSCS-Student-17325C?style=for-the-badge&logo=googlescholar&logoColor=FFB02E" alt="BSCS Student"/>
   <img src="https://img.shields.io/badge/Web_Developer-17325C?style=for-the-badge&logo=visualstudiocode&logoColor=FFB02E" alt="Web Developer"/>
   <img src="https://img.shields.io/badge/UI%2FUX-Designer-17325C?style=for-the-badge&logo=figma&logoColor=FFB02E" alt="UI/UX Designer"/>
-  <img src="https://img.shields.io/badge/Open_to-Internships-FFB02E?style=for-the-badge&logo=handshake&logoColor=17325C" alt="Open to Internships"/>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
