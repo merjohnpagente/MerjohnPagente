@@ -46,13 +46,13 @@ Six builds from my portfolio — each one shipped, linked and open to explore.
 <a href="https://fitcoregyms.vercel.app"><img src="./assets/projects/fitcore.jpg" alt="FitCore Gym Management dashboard" width="100%"></a><br><br>
 <strong>FitCore Gym Management</strong><br>
 <sub>Gym operations · JavaScript · Firebase</sub><br>
-<a href="https://fitcoregyms.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-D99A24?style=for-the-badge&logo=vercel&logoColor=17325C" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/FITCORE-GYM-MANAGEMENT-SYSTEM"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
+<a href="https://fitcoregyms.vercel.app"><img src="./assets/badges/live-demo.svg" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/FITCORE-GYM-MANAGEMENT-SYSTEM"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
 </td>
 <td width="50%" valign="top">
 <a href="https://classcastmjdev.vercel.app"><img src="./assets/projects/classcast.jpg" alt="ClassCast offline classroom casting" width="100%"></a><br><br>
 <strong>ClassCast</strong><br>
 <sub>Offline classroom · Flutter · WebSocket</sub><br>
-<a href="https://classcastmjdev.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-D99A24?style=for-the-badge&logo=vercel&logoColor=17325C" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/ClassCast"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
+<a href="https://classcastmjdev.vercel.app"><img src="./assets/badges/live-demo.svg" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/ClassCast"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
 </td>
 </tr>
 <tr>
@@ -60,13 +60,13 @@ Six builds from my portfolio — each one shipped, linked and open to explore.
 <a href="https://johnfoodland.vercel.app"><img src="./assets/projects/johnfood.jpg" alt="Johnfood Delivery website" width="100%"></a><br><br>
 <strong>Johnfood Delivery</strong><br>
 <sub>Food ordering · Flutter · Firebase</sub><br>
-<a href="https://johnfoodland.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-D99A24?style=for-the-badge&logo=vercel&logoColor=17325C" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/JohnFood"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
+<a href="https://johnfoodland.vercel.app"><img src="./assets/badges/live-demo.svg" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/JohnFood"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
 </td>
 <td width="50%" valign="top">
 <a href="https://merjohnpagente.github.io/-regex-challenge-game/"><img src="./assets/projects/regex.jpg" alt="Regex Challenge Game" width="100%"></a><br><br>
 <strong>Regex Challenge Game</strong><br>
 <sub>Learning game · HTML · CSS · JavaScript</sub><br>
-<a href="https://merjohnpagente.github.io/-regex-challenge-game/"><img src="https://img.shields.io/badge/Live_Demo-D99A24?style=for-the-badge&logo=githubpages&logoColor=17325C" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/regex-challenge-game"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
+<a href="https://merjohnpagente.github.io/-regex-challenge-game/"><img src="./assets/badges/live-demo.svg" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/regex-challenge-game"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
 </td>
 </tr>
 <tr>
@@ -74,13 +74,13 @@ Six builds from my portfolio — each one shipped, linked and open to explore.
 <a href="https://merjohnpagente.github.io/MOMENTUM/"><img src="./assets/projects/momentum.jpg" alt="Momentum gym management system" width="100%"></a><br><br>
 <strong>Momentum</strong><br>
 <sub>Gym operations · HTML · JavaScript · localStorage</sub><br>
-<a href="https://merjohnpagente.github.io/MOMENTUM/"><img src="https://img.shields.io/badge/Live_Demo-D99A24?style=for-the-badge&logo=githubpages&logoColor=17325C" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/MOMENTUM"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
+<a href="https://merjohnpagente.github.io/MOMENTUM/"><img src="./assets/badges/live-demo.svg" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/MOMENTUM"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
 </td>
 <td width="50%" valign="top">
 <a href="https://merjohnpagente.github.io/spotify/"><img src="./assets/projects/spotify.jpg" alt="Spotify-inspired streaming UI" width="100%"></a><br><br>
 <strong>Spotify</strong><br>
 <sub>Streaming UI · Flutter · Node.js · MongoDB</sub><br>
-<a href="https://merjohnpagente.github.io/spotify/"><img src="https://img.shields.io/badge/Live_Demo-D99A24?style=for-the-badge&logo=githubpages&logoColor=17325C" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/spotify"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
+<a href="https://merjohnpagente.github.io/spotify/"><img src="./assets/badges/live-demo.svg" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/spotify"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
 </td>
 </tr>
 </table>
