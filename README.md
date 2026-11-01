@@ -12,6 +12,13 @@
   <sub>BSCS student · Tangub City, Philippines · Open to internships &amp; collaborations</sub>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/BSCS-Student-17325C?style=for-the-badge&logo=googlescholar&logoColor=FFB02E" alt="BSCS Student"/>
+  <img src="https://img.shields.io/badge/Web_Developer-17325C?style=for-the-badge&logo=visualstudiocode&logoColor=FFB02E" alt="Web Developer"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-Designer-17325C?style=for-the-badge&logo=figma&logoColor=FFB02E" alt="UI/UX Designer"/>
+  <img src="https://img.shields.io/badge/Open_to-Internships-FFB02E?style=for-the-badge&logo=handshake&logoColor=17325C" alt="Open to Internships"/>
+</p>
+
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
 ## About me
@@ -169,6 +176,10 @@ Have a project, a role to fill, or just want to talk code? My inbox is open.
   <a href="mailto:merjohnpagente2004@gmail.com"><img src="https://img.shields.io/badge/Email-17325C?style=for-the-badge&logo=gmail&logoColor=FFB02E" alt="Email"/></a>
   <a href="https://merjohnpagente.github.io/"><img src="https://img.shields.io/badge/Portfolio-17325C?style=for-the-badge&logo=githubpages&logoColor=FFB02E" alt="Portfolio"/></a>
   <a href="https://web.facebook.com/Mjhnnjhn"><img src="https://img.shields.io/badge/Facebook-17325C?style=for-the-badge&logo=facebook&logoColor=FFB02E" alt="Facebook"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=merjohnpagente&label=Profile%20views&color=17325c&style=for-the-badge" alt="Profile views"/>
 </p>
 
 <p align="center">Thanks for stopping by. Say hi if you want to build something together.</p>
