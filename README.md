@@ -1,39 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0f2027"/>
-      <stop offset="50%" stop-color="#203a43"/>
-      <stop offset="100%" stop-color="#2c5364"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
+<p align="center"> <img src="./assets/header.svg" alt="Merjohn Pagente, BSCS student at Tangub City Global College" width="100%"/> </p> <p align="center"> <a href="https://github.com/merjohnpagente"><img src="./assets/contact/github.svg" alt="GitHub" height="44"/></a> <a href="https://merjohnpagente.github.io/merjohnportfolio/"><img src="./assets/contact/portfolio.svg" alt="Portfolio" height="44"/></a> <a href="https://facebook.com/YOUR-FACEBOOK-HANDLE"><img src="./assets/contact/facebook.svg" alt="Facebook" height="44"/></a> <a href="mailto:YOUR-EMAIL@gmail.com"><img src="./assets/contact/email.svg" alt="Email" height="44"/></a> </p> <p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
+About me
+<p align="center"> <img src="./assets/about.svg" alt="Merjohn Pagente, BSCS student at Tangub City Global College, Institute of Computer Studies, Tangub City, Misamis Occidental" width="100%"/> </p>
 
-  <!-- rounded square background -->
-  <rect x="4" y="4" width="112" height="112" rx="24" fill="url(#g)"/>
+I am a Computer Science student who learns by shipping. Most of my work starts as a school requirement, a capstone, a thesis or a final project, and ends as a working system that someone could actually use.
 
-  <!-- circuit lines -->
-  <g stroke="#7fd1ff" stroke-width="2" opacity="0.6" fill="none">
-    <path d="M20 60 H40 M80 60 H100 M60 20 V40 M60 80 V100"/>
-  </g>
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
+What I have built
+<p align="center"> <img src="./assets/projects/health-monitoring.svg" alt="Health Monitoring System" width="49%"/> <img src="./assets/projects/fitcore.svg" alt="FitCore GMS" width="49%"/> <img src="./assets/projects/gorilla-gym.svg" alt="Gorilla Gym" width="49%"/> <img src="./assets/projects/transport-monitoring.svg" alt="Public Transport Monitoring" width="49%"/> <img src="./assets/projects/switchboard.svg" alt="Switchboard" width="49%"/> <img src="./assets/projects/messenger-clone.svg" alt="Messenger UI clone" width="49%"/> </p>
 
-  <!-- pulsing brain chip -->
-  <g filter="url(#glow)">
-    <rect x="42" y="42" width="36" height="36" rx="6" fill="none" stroke="#7fd1ff" stroke-width="2.5">
-      <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
-    </rect>
-    <circle cx="60" cy="60" r="6" fill="#7fd1ff">
-      <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite"/>
-    </circle>
-  </g>
+More on my portfolio site and in my repositories.
 
-  <!-- dot grid -->
-  <g fill="#7fd1ff" opacity="0.5">
-    <circle cx="30" cy="30" r="2"/>
-    <circle cx="90" cy="30" r="2"/>
-    <circle cx="30" cy="90" r="2"/>
-    <circle cx="90" cy="90" r="2"/>
-  </g>
-</svg>
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
+Tech stack
+
+Web
+
+<p> <img src="./assets/icons/html.svg" alt="HTML" width="72"/> <img src="./assets/icons/css.svg" alt="CSS" width="72"/> <img src="./assets/icons/javascript.svg" alt="JavaScript" width="72"/> <img src="./assets/icons/php.svg" alt="PHP" width="72"/> </p>
+
+Mobile
+
+<p> <img src="./assets/icons/flutter.svg" alt="Flutter" width="72"/> <img src="./assets/icons/dart.svg" alt="Dart" width="72"/> </p>
+
+Backend and data
+
+<p> <img src="./assets/icons/python.svg" alt="Python" width="72"/> <img src="./assets/icons/mysql.svg" alt="MySQL" width="72"/> </p>
+
+Tools
+
+<p> <img src="./assets/icons/git.svg" alt="Git" width="72"/> <img src="./assets/icons/github.svg" alt="GitHub" width="72"/> <img src="./assets/icons/vscode.svg" alt="VS Code" width="72"/> <img src="./assets/icons/figma.svg" alt="Figma" width="72"/> </p> <p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
+GitHub activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=merjohnpagente&show_icons=true&hide_border=false&bg_color=17325C&title_color=FFB02E&text_color=EAF1FB&icon_color=FFB02E&ring_color=FFB02E&border_color=35557F&border_radius=14" alt="GitHub stats" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merjohnpagente&layout=compact&bg_color=17325C&title_color=FFB02E&text_color=EAF1FB&icon_color=FFB02E&ring_color=FFB02E&border_color=35557F&border_radius=14" alt="Top languages" width="49%"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=merjohnpagente&background=17325C&stroke=35557F&ring=FFB02E&fire=FFB02E&currStreakNum=EAF1FB&currStreakLabel=FFB02E&sideNums=EAF1FB&sideLabels=AFC3E2&dates=AFC3E2&border_radius=14&hide_border=true" alt="GitHub streak" width="70%"/> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/merjohnpagente/merjohnpagente/output/github-contribution-grid-snake-dark.svg"/> <img src="https://raw.githubusercontent.com/merjohnpagente/merjohnpagente/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%"/> </picture> </p> <p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p> <p align="center">Thanks for stopping by. Say hi if you want to build something together.</p>
