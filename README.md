@@ -130,6 +130,7 @@ Six builds from my portfolio — each one shipped, linked and open to explore.
   <img src="./assets/icons/php.svg" alt="PHP" width="72"/>
   <img src="./assets/icons/mysql.svg" alt="MySQL" width="72"/>
   <img src="./assets/icons/firebase.svg" alt="Firebase" width="72"/>
+  <img src="./assets/icons/supabase.svg" alt="Supabase" width="72"/>
   <img src="./assets/icons/mongodb.svg" alt="MongoDB" width="72"/>
   <img src="./assets/icons/csharp.svg" alt="C#" width="72"/>
 </p>
@@ -152,8 +153,8 @@ Six builds from my portfolio — each one shipped, linked and open to explore.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merjohnpagente&show_icons=true&hide_border=false&bg_color=17325C&title_color=FFB02E&text_color=EAF1FB&icon_color=FFB02E&ring_color=FFB02E&border_color=35557F&border_radius=14" alt="GitHub stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merjohnpagente&layout=compact&langs_count=8&bg_color=17325C&title_color=FFB02E&text_color=EAF1FB&icon_color=FFB02E&ring_color=FFB02E&border_color=35557F&border_radius=14" alt="Top languages" width="49%"/>
+  <a href="https://github.com/merjohnpagente"><img src="https://img.shields.io/github/followers/merjohnpagente?style=for-the-badge&color=17325C&labelColor=0F2444&logo=github&logoColor=FFB02E" alt="Followers"/></a>
+  <a href="https://github.com/merjohnpagente"><img src="https://img.shields.io/github/stars/merjohnpagente?style=for-the-badge&color=17325C&labelColor=0F2444&logo=github&logoColor=FFB02E" alt="Stars"/></a>
 </p>
 
 ## Contribution snake
