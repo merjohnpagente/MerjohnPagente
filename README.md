@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/merjohnpagente" title="GitHub"><img src="./assets/contact/github.svg" alt="GitHub" height="44"/></a>
   <a href="https://merjohnpagente.github.io/" title="Portfolio"><img src="./assets/contact/portfolio.svg" alt="Portfolio" height="44"/></a>
   <a href="https://web.facebook.com/Mjhnnjhn" title="Facebook"><img src="./assets/contact/facebook.svg" alt="Facebook" height="44"/></a>
   <a href="mailto:merjohnpagente2004@gmail.com" title="Email"><img src="./assets/contact/email.svg" alt="Email" height="44"/></a>
@@ -41,13 +40,13 @@ Six builds from my portfolio — each one shipped, linked and open to explore.
 <a href="https://fitcoregyms.vercel.app"><img src="./assets/projects/fitcore.jpg" alt="FitCore Gym Management dashboard" width="100%"></a><br><br>
 <strong>FitCore Gym Management</strong><br>
 <sub>Gym operations · JavaScript · Firebase</sub><br>
-<a href="https://fitcoregyms.vercel.app">Live demo</a> · <a href="https://github.com/MerjohnPagente/FITCORE-GYM-MANAGEMENT-SYSTEM">Source</a>
+<a href="https://fitcoregyms.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-D99A24?style=for-the-badge&logo=vercel&logoColor=17325C" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/FITCORE-GYM-MANAGEMENT-SYSTEM"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
 </td>
 <td width="50%" valign="top">
 <a href="https://classcastmjdev.vercel.app"><img src="./assets/projects/classcast.jpg" alt="ClassCast offline classroom casting" width="100%"></a><br><br>
 <strong>ClassCast</strong><br>
 <sub>Offline classroom · Flutter · WebSocket</sub><br>
-<a href="https://classcastmjdev.vercel.app">Live demo</a> · <a href="https://github.com/MerjohnPagente/ClassCast">Source</a>
+<a href="https://classcastmjdev.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-D99A24?style=for-the-badge&logo=vercel&logoColor=17325C" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/ClassCast"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
 </td>
 </tr>
 <tr>
@@ -55,13 +54,13 @@ Six builds from my portfolio — each one shipped, linked and open to explore.
 <a href="https://johnfoodland.vercel.app"><img src="./assets/projects/johnfood.jpg" alt="Johnfood Delivery website" width="100%"></a><br><br>
 <strong>Johnfood Delivery</strong><br>
 <sub>Food ordering · Flutter · Firebase</sub><br>
-<a href="https://johnfoodland.vercel.app">Live demo</a> · <a href="https://github.com/MerjohnPagente/JohnFood">Source</a>
+<a href="https://johnfoodland.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-D99A24?style=for-the-badge&logo=vercel&logoColor=17325C" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/JohnFood"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
 </td>
 <td width="50%" valign="top">
 <a href="https://merjohnpagente.github.io/-regex-challenge-game/"><img src="./assets/projects/regex.jpg" alt="Regex Challenge Game" width="100%"></a><br><br>
 <strong>Regex Challenge Game</strong><br>
 <sub>Learning game · HTML · CSS · JavaScript</sub><br>
-<a href="https://merjohnpagente.github.io/-regex-challenge-game/">Live demo</a> · <a href="https://github.com/MerjohnPagente/regex-challenge-game">Source</a>
+<a href="https://merjohnpagente.github.io/-regex-challenge-game/"><img src="https://img.shields.io/badge/Live_Demo-D99A24?style=for-the-badge&logo=githubpages&logoColor=17325C" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/regex-challenge-game"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
 </td>
 </tr>
 <tr>
@@ -69,13 +68,13 @@ Six builds from my portfolio — each one shipped, linked and open to explore.
 <a href="https://merjohnpagente.github.io/MOMENTUM/"><img src="./assets/projects/momentum.jpg" alt="Momentum gym management system" width="100%"></a><br><br>
 <strong>Momentum</strong><br>
 <sub>Gym operations · HTML · JavaScript · localStorage</sub><br>
-<a href="https://merjohnpagente.github.io/MOMENTUM/">Live demo</a> · <a href="https://github.com/MerjohnPagente/MOMENTUM">Source</a>
+<a href="https://merjohnpagente.github.io/MOMENTUM/"><img src="https://img.shields.io/badge/Live_Demo-D99A24?style=for-the-badge&logo=githubpages&logoColor=17325C" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/MOMENTUM"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
 </td>
 <td width="50%" valign="top">
 <a href="https://merjohnpagente.github.io/spotify/"><img src="./assets/projects/spotify.jpg" alt="Spotify-inspired streaming UI" width="100%"></a><br><br>
 <strong>Spotify</strong><br>
 <sub>Streaming UI · Flutter · Node.js · MongoDB</sub><br>
-<a href="https://merjohnpagente.github.io/spotify/">Live demo</a> · <a href="https://github.com/MerjohnPagente/spotify">Source</a>
+<a href="https://merjohnpagente.github.io/spotify/"><img src="https://img.shields.io/badge/Live_Demo-D99A24?style=for-the-badge&logo=githubpages&logoColor=17325C" alt="Live demo" height="28"/></a> <a href="https://github.com/MerjohnPagente/spotify"><img src="https://img.shields.io/badge/Source-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="Source" height="28"/></a>
 </td>
 </tr>
 </table>
@@ -92,8 +91,6 @@ Six builds from my portfolio — each one shipped, linked and open to explore.
   </a>
 </p>
 
-<p align="center"><sub>Live at <a href="https://merjohnpagente.github.io/">merjohnpagente.github.io</a> — click the preview to explore.</sub></p>
-
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
 ## Tech stack
@@ -103,6 +100,7 @@ Six builds from my portfolio — each one shipped, linked and open to explore.
   <img src="./assets/icons/html.svg" alt="HTML" width="72"/>
   <img src="./assets/icons/css.svg" alt="CSS" width="72"/>
   <img src="./assets/icons/javascript.svg" alt="JavaScript" width="72"/>
+  <img src="./assets/icons/react.svg" alt="React" width="72"/>
   <img src="./assets/icons/tailwind.svg" alt="Tailwind" width="72"/>
   <img src="./assets/icons/bootstrap.svg" alt="Bootstrap" width="72"/>
 </p>
@@ -163,7 +161,6 @@ Have a project, a role to fill, or just want to talk code? My inbox is open.
 <p align="center">
   <a href="mailto:merjohnpagente2004@gmail.com"><img src="https://img.shields.io/badge/Email-17325C?style=for-the-badge&logo=gmail&logoColor=FFB02E" alt="Email"/></a>
   <a href="https://merjohnpagente.github.io/"><img src="https://img.shields.io/badge/Portfolio-17325C?style=for-the-badge&logo=githubpages&logoColor=FFB02E" alt="Portfolio"/></a>
-  <a href="https://github.com/merjohnpagente"><img src="https://img.shields.io/badge/GitHub-17325C?style=for-the-badge&logo=github&logoColor=FFB02E" alt="GitHub"/></a>
   <a href="https://web.facebook.com/Mjhnnjhn"><img src="https://img.shields.io/badge/Facebook-17325C?style=for-the-badge&logo=facebook&logoColor=FFB02E" alt="Facebook"/></a>
 </p>
 

@@ -1,0 +1,43 @@
+name: Update 3D contribution graph
+
+on:
+  schedule:
+    - cron: "10 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-contrib-3d
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Regenerate the 3D contribution graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/contrib-3d.mjs
+
+      - name: Commit and push changes
+        run: |
+          if git diff --quiet -- assets/contrib-3d.svg README.md; then
+            echo "No contribution changes to publish."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contrib-3d.svg README.md
+          git commit -m "Update 3D contribution graph"
+          git push
