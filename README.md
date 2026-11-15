@@ -149,7 +149,7 @@ Six builds from my portfolio — each one shipped, linked and open to explore.
 ## A year of shipping
 
 <p align="center">
-  <img src="./assets/contrib-3d.svg" alt="3D isometric GitHub contribution graph — 566 contributions across 77 active days" width="100%"/>
+  <img src="./assets/contrib-3d.svg" alt="3D isometric GitHub contribution graph — 575 contributions across 78 active days" width="100%"/>
 </p>
 
 <p align="center">
